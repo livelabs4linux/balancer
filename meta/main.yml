@@ -16,4 +16,4 @@ galaxy_info:
   galaxy_tags:
     - balancer
 dependencies:
-  - role: conf_base
+  - role: livelabs4linux.conf_base
